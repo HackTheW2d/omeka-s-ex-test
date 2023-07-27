@@ -1,4 +1,4 @@
-test now!
+TEST PUSH1
 # omeka-s-ex-test
 1. test webhook
 2. test workflows
